@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-4\Assignments\Part-4Arrays\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\mphasis-B2\Day-4\Assignments\Part-4Arrays\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\mphasis-B2\Day-4\Assignments\Part-4Arrays\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\mphasis-B2\Day-4\Assignments\Part-4Arrays\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-4\Assignments\Part-4Arrays\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-4\Assignments\Part-4Arrays\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\mphasis-B2\Day-4\Assignments\Part-4Arrays\Arrays\Arrays\obj\Debug\Arrays.pdb
